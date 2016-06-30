@@ -12,7 +12,10 @@ We'll always do our best to fulfill your needs and meet your expectations, but i
 
 You **client name,** located at **client address** ("You") are hiring us **company name** ("We or Us") to:
 
-- **Design, develop or host a web site, app, or page**
+- **Design and develop a web site, app, or page**
+- **Hosting details**
+- **Support hours details**
+- **Feature breakdown details included at the end of this document**
 
 For the estimated total price of **total** as outlined in our previous correspondence.
 
@@ -46,15 +49,17 @@ If your project requires logos or custom icons, you should supply graphic files 
 
 ### HTML, CSS and JavaScript
 
-We deliver web page types developed from HTML markup, CSS stylesheets for styling and unobtrusive JavaScript for feature detection, polyfills and behaviors.
+We deliver web page types developed from HTML markup, CSS stylesheets for styling and unobtrusive JavaScript for feature detection, polyfills and behaviors. We'll also use JavaScript to provide all of the interactive and communicative functionality on your web app, site, or page.
 
 ### Desktop and mobile browser testing
 
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person's experience of a design should be appropriate to the capabilities of a browser or device.
 
-Google Chrome on Mac gives us a great idea of what your project looks like across multiple browsers and devices, using the builtin developer tools.
+We'll test your project primarily on Google Chrome for Mac. Google Chrome on Mac gives us a great idea of what your project looks like across multiple browsers and devices, using the builtin developer tools. We won't explicitly test our work in the latest major desktop browsers (Firefox, Safari, Opera, and Edge), but the code that we write will include support for those browsers.
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), Mozilla Firefox and Opera. We'll also test to ensure that people who use Microsoft Internet Explorer 11 for Windows get an appropriate experience. We won't test in other older browsers unless we agreed separately. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+Internet Explorer 11 requires some extra work to be backwards compatible, so we won't explicitly design our site for those users. Those users may experience some layout issues. If you'd like us to ensure that the design is identical on IE11, we can provide a separate estimate for that.
+
+Because Internet Explorer 10 and below requires significant work to be backwards compatible, we make no guarantees that your project will function correctly on IE10 and below. If you'd like your project to be functional on IE10 and below, we can provide a separate estimate for that.
 
 Testing using popular smaller screen devices is essential in ensuring that a person's experience of a design is appropriate to the capabilities of the device they're using. We test our designs in Google Chrome on the latest released version of iOS.
 
@@ -62,15 +67,17 @@ Google Chrome on iOS gives us a great idea of what your project looks like acros
 
 ### Technical support
 
-We're not a website hosting company so we don't offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don't, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
+As part of our agreement outlined in our previous correspondence, we may have agreed to include hosting for a specified period of time. We've built the cost of that time into our estimate. At the end of that time, we can either agree to sign a new hosting contract, or just to let it expire, and let you administrate and pay for the hosting yourself. There is no guarantee that we'll be available to continue managing your hosting after the contract ends, though.
 
-### Search engine optimization (SEO)
+In either case, at some point during the project, we'll provide you with the credentials to log in and administrate your own hosting account. That way, you can decide to move to your own hosting provider, or manage your hosting yourself.
 
-We don't guarantee improvements to your website's search engine ranking, but the web pages that we develop are accessible to search engines.
+We may have agreed to include some support hours as part of our previous correspondence. You can use these support hours to fix bugs, to solve some customer support issues, or other administrative tasks. We'll keep track of the hours used, and keep you apprised of how many hours are left.
+
+Once all the support hours are used up, you may have the ability to sign another support contract, to get more support hours.
 
 ### Changes and revisions
 
-We don't want to limit your ability to change your mind. The price at the beginning of this contract is based on the number of weeks that we estimate we'll need to accomplish everything you've told us you want to achieve, but we're happy to be flexible. If you want to change your mind or add anything new, that won't be a problem as we'll provide a separate estimate for those additional weeks.
+We don't want to limit your ability to change your mind. The price at the beginning of this contract is based on the number of hours that we estimate we'll need to accomplish everything you've told us you want to achieve, but we're happy to be flexible. If you want to change your mind or add anything new, that won't be a problem as we'll provide a separate estimate for those additional hours.
 
 ### Legal stuff
 
