@@ -105,6 +105,12 @@ You'll own the website we design for you plus the visual elements that we create
 
 We'll own any intellectual property rights we've developed prior to, or developed separately from this project and not paid for by you. We'll own the unique combination of these elements that constitutes a complete design and we'll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
 
+If there are specific, proprietary or confidential algorithms or techniques that you'd like to explicitly retain ownership of, we'll work together to make sure that they're laid out beforehand in this contract.
+
+If you'd like assistance in acquiring patents for said algorithms, we can provide a separate estimate for that.
+
+In general, there's a tremendous amount of cross-pollination of software development ideas between many projects. Allowing us to reuse nontrivial code, components or algorithms from previous projects increases our effectiveness greatly, and allows us to be more efficient for our clients. Unless otherwise specified, we have permission to reuse code from other projects on your project and vice versa.
+
 ### Displaying our work
 
 We love to show off our work, so we reserve the right to display all aspects of our creative work, including sketches, work-in-progress designs and the completed project on our portfolio and in articles on websites, in magazine articles and in books.
